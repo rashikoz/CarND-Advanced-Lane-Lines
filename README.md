@@ -12,6 +12,6 @@ The project follows the following steps to figure out the lane boundaries
 * Warp the detected lane boundaries back onto the original image.
 * Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
 
-For detailed explanation please refer [advanced lane detection](CarND-Advanced-Lane-Lines.html).
+For detailed explanation please refer [advanced lane detection](CarND-Advanced-Lane-Lines.pdf).
 
 
